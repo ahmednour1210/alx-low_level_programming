@@ -21,7 +21,7 @@ int main(void)
 	}
 	while (num2 <= 90)
 	{
-		putchar(num22);
+		putchar(num2);
 		num2++;
 	}
 	putchar('\n');
