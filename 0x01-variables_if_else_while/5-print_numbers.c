@@ -2,7 +2,7 @@
 /**
 * main - Entry point
 *
-*Description: Print number of base 10.
+*Description: Print numbers of  base 10.
 *
 * Return: Always 0 (Success)
 */
